@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Parallel Image Processing project! This software, focuses on optimizing image-related operations through parallel computing. The implementation utilizes MPI (Message Passing Interface) and OpenMP (Open Multi-Processing) to distribute tasks efficiently among processes, enhancing the overall performance of the image processing workflow.
+Welcome to Parallel implementation of Submatrix Search in large matrix! This software, focuses on optimizing image-related operations (finding objects in pictures) through parallel computing. The implementation utilizes MPI (Message Passing Interface) and OpenMP (Open Multi-Processing) to distribute tasks efficiently among processes, enhancing the overall performance of the image processing workflow.
 
 ## Table of Contents
 
