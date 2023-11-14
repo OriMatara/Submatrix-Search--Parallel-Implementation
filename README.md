@@ -4,6 +4,17 @@
 
 Welcome to the Parallel Image Processing project! This software, focuses on optimizing image-related operations through parallel computing. The implementation utilizes MPI (Message Passing Interface) and OpenMP (Open Multi-Processing) to distribute tasks efficiently among processes, enhancing the overall performance of the image processing workflow.
 
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Project Description](#project-description)
+   - [Execution Instructions](#execution-instructions)
+   - [Code Structure](#code-structure)
+   - [Parallelization Strategy](#parallelization-strategy)
+   - [Algorithm Overview](#algorithm-overview)
+   - [Project Instructions](#project-instructions)
+3. [Conclusion](#conclusion)
+
 ## Project Description
 
 ### Execution Instructions
