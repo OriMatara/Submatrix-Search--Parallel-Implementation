@@ -1,1 +1,1 @@
-# Submatrix-Search--Parallel-Implementation
+# Submatrix-Search-Parallel-Implementation
